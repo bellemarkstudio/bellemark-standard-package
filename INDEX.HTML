@@ -1,1 +1,0 @@
-# bellemark-standard-package
